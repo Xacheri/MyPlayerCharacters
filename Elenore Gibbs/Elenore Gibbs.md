@@ -43,6 +43,7 @@
 | Handaxe (thrown)   | 1d6 Slashing    | +4 (Prof + Str)    | +2 (Str)           | Ranged (20/60)              |
 |                    |                 |                    |                    |                             |
 *Note: Savage Attacker allows you to reroll 1 melee damage dice per turn*
+*Note: Elenore has Mastery in Handaxes, allowing her to use their mastery ability, [[Vex]]*
 
 ## Spellcasting
 
@@ -55,6 +56,7 @@
 | 3                  | 3       |         |         |         |         |
 | **Current Slots:** | 3       |         |         |         |         |
 **Spells**
+- *Special* - [[Hunter's Mark]] (2x / long rest)
 - *Level 1 - [[Cure Wounds]], [[Speak with Animals]], [[Goodberry]] (maybe)*
 
 ---
@@ -79,7 +81,7 @@
 | +4  | Athletics       | *Str*   | True        |
 | +1  | Deception       | *Cha*   |             |
 | -2  | History         | *Int*   |             |
-| +6  | Insight         | *Wis*   | True        |
+| +8  | Insight         | *Wis*   | Expertise   |
 | +1  | Intimidation    | *Cha*   |             |
 | -2  | Investigation   | *Int*   |             |
 | +4  | Medicine        | *Wis*   |             |
@@ -100,6 +102,7 @@
 
 *Ranger Class*
 **Fighting Style: Two-Weapon Fighting** - When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack
+**Favored Enemy** - Cast [[Hunter's Mark]] up to 2x per long rest without expending a spell slot
 
 ---
 ## Proficiencies
@@ -122,12 +125,18 @@
 - **Skill: Nature**
 - **Skill: Perception**
 - **Fighting Style: Two Weapon Fighting Style**
+- **Mastery: Handaxe**
+- **Mastery: Greataxe**
 
 ---
 ## Languages
 *Racial Languages (Human)*
 - **Common**
 - **Ghukliak (Goblin)**
+*Class Languages (Ranger: Deft Explorer)*
+- **Dwarvish**
+- **Gnomish**
+
 ---
 ## Equipment
 
