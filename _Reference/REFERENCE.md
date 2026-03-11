@@ -4,11 +4,11 @@ This folder contains references to different 5e spell, creatures, and rules. The
 
 ### TABLE OF CONTENTS:
 
-- [[CLASSES|Classes]]
-- [[EQUIPMENT|Equipment]]
-- [[GAMEMASTERING|Gamemastering]]
-- [[GAMEPLAY|Gameplay]]
-- [[MONSTERS|Monsters]]
-- [[RACES|Races]]
-- [[_Spell Lists|Spells]]
-- [[TREASURE|Treasure]]
+- [[Classes/CLASSES.md|Classes]]
+- [[Equipment/EQUIPMENT.md|Equipment]]
+- [[Gamemastering/GAMEMASTERING.md|Gamemastering]]
+- [[Gameplay/GAMEPLAY.md|Gameplay]]
+- [[Monsters/MONSTERS.md|Monsters]]
+- [[Races/RACES.md|Races]]
+- [[_Spell Lists|Spells](Spells/_Spell%20Lists.md)
+- [[Treasure/TREASURE.md|Treasure]]

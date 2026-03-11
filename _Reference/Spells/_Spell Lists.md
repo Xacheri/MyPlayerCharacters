@@ -6,1001 +6,1001 @@ Spell names are wikilinked for use in a a PKM application, like [Obsidian](https
 
 #### Cantrips (0 Level)
 
-- [[Dancing Lights]]
-- [[Light]]
-- [[Mage Hand]]
-- [[Mending]]
-- [[Message]]
-- [[Minor Illusion]]
-- [[Prestidigitation]]
-- [[True Strike]]
-- [[Vicious Mockery]]
+- [[Dancing Lights](Dancing%20Lights.md)
+- [[Light.md]]
+- [[Mage Hand](Mage%20Hand.md)
+- [[Mending.md]]
+- [[Message.md]]
+- [[Minor Illusion](Minor%20Illusion.md)
+- [[Prestidigitation.md]]
+- [[True Strike](True%20Strike.md)
+- [[Vicious Mockery](Vicious%20Mockery.md)
 
 #### 1st Level
 
-- [[Animal Friendship]]
-- [[Bane]]
-- [[Charm Person]]
-- [[Comprehend Languages]]
-- [[Cure Wounds]]
-- [[Detect Magic]]
-- [[Disguise Self]]
-- [[Faerie Fire]]
-- [[Feather Fall]]
-- [[Healing Word]]
-- [[Heroism]]
-- [[Hideous Laughter]]
-- [[Identify]]
-- [[Illusory Script]]
-- [[Longstrider]]
-- [[Silent Image]]
-- [[Sleep]]
-- [[Speak with Animals]]
-- [[Thunderwave]]
-- [[Unseen Servant]]
+- [[Animal Friendship](Animal%20Friendship.md)
+- [[Bane.md]]
+- [[Charm Person](Charm%20Person.md)
+- [[Comprehend Languages](Comprehend%20Languages.md)
+- [[Cure Wounds](Cure%20Wounds.md)
+- [[Detect Magic](Detect%20Magic.md)
+- [[Disguise Self](Disguise%20Self.md)
+- [[Faerie Fire](Faerie%20Fire.md)
+- [[Feather Fall](Feather%20Fall.md)
+- [[Healing Word](Healing%20Word.md)
+- [[Heroism.md]]
+- [[Hideous Laughter](Hideous%20Laughter.md)
+- [[Identify.md]]
+- [[Illusory Script](Illusory%20Script.md)
+- [[Longstrider.md]]
+- [[Silent Image](Silent%20Image.md)
+- [[Sleep.md]]
+- [[Speak with Animals](Speak%20with%20Animals.md)
+- [[Thunderwave.md]]
+- [[Unseen Servant](Unseen%20Servant.md)
 
 #### 2nd Level
 
-- [[Animal Messenger]]
-- [[Blindness-Deafness]]
-- [[Calm Emotions]]
-- [[Detect Thoughts]]
-- [[Enhance Ability]]
-- [[Enthrall]]
-- [[Heat Metal]]
-- [[Hold Person]]
-- [[Invisibility]]
-- [[Knock]]
-- [[Lesser Restoration]]
-- [[Locate Animals or Plants]]
-- [[Locate Object]]
-- [[Magic Mouth]]
-- [[See Invisibility]]
-- [[Shatter]]
-- [[Silence]]
-- [[Suggestion]]
-- [[Zone of Truth]]
+- [[Animal Messenger](Animal%20Messenger.md)
+- [[Blindness-Deafness.md]]
+- [[Calm Emotions](Calm%20Emotions.md)
+- [[Detect Thoughts](Detect%20Thoughts.md)
+- [[Enhance Ability](Enhance%20Ability.md)
+- [[Enthrall.md]]
+- [[Heat Metal](Heat%20Metal.md)
+- [[Hold Person](Hold%20Person.md)
+- [[Invisibility.md]]
+- [[Knock.md]]
+- [[Lesser Restoration](Lesser%20Restoration.md)
+- [[Locate Animals or Plants](Locate%20Animals%20or%20Plants.md)
+- [[Locate Object](Locate%20Object.md)
+- [[Magic Mouth](Magic%20Mouth.md)
+- [[See Invisibility](See%20Invisibility.md)
+- [[Shatter.md]]
+- [[Silence.md]]
+- [[Suggestion.md]]
+- [[Zone of Truth](Zone%20of%20Truth.md)
 
 #### 3rd Level
 
-- [[Bestow Curse]]
-- [[Clairvoyance]]
-- [[Dispel Magic]]
-- [[Fear]]
-- [[Glyph of Warding]]
-- [[Hypnotic Pattern]]
-- [[Major Image]]
-- [[Nondetection]]
-- [[Plant Growth]]
-- [[Sending]]
-- [[Speak with Dead]]
-- [[Speak with Plants]]
-- [[Stinking Cloud]]
-- [[Tiny Hut]]
-- [[Tongues]]
+- [[Bestow Curse](Bestow%20Curse.md)
+- [[Clairvoyance.md]]
+- [[Dispel Magic](Dispel%20Magic.md)
+- [[Fear.md]]
+- [[Glyph of Warding](Glyph%20of%20Warding.md)
+- [[Hypnotic Pattern](Hypnotic%20Pattern.md)
+- [[Major Image](Major%20Image.md)
+- [[Nondetection.md]]
+- [[Plant Growth](Plant%20Growth.md)
+- [[Sending.md]]
+- [[Speak with Dead](Speak%20with%20Dead.md)
+- [[Speak with Plants](Speak%20with%20Plants.md)
+- [[Stinking Cloud](Stinking%20Cloud.md)
+- [[Tiny Hut](Tiny%20Hut.md)
+- [[Tongues.md]]
 
 #### 4th Level
 
-- [[Compulsion]]
-- [[Confusion]]
-- [[Dimension Door]]
-- [[Freedom of Movement]]
-- [[Greater Invisibility]]
-- [[Hallucinatory Terrain]]
-- [[Locate Creature]]
-- [[Polymorph]]
+- [[Compulsion.md]]
+- [[Confusion.md]]
+- [[Dimension Door](Dimension%20Door.md)
+- [[Freedom of Movement](Freedom%20of%20Movement.md)
+- [[Greater Invisibility](Greater%20Invisibility.md)
+- [[Hallucinatory Terrain](Hallucinatory%20Terrain.md)
+- [[Locate Creature](Locate%20Creature.md)
+- [[Polymorph.md]]
 
 #### 5th Level
 
-- [[Animate Objects]]
-- [[Awaken]]
-- [[Dominate Person]]
-- [[Dream]]
-- [[Geas]]
-- [[Greater Restoration]]
-- [[Hold Monster]]
-- [[Legend Lore]]
-- [[Mass Cure Wounds]]
-- [[Mislead]]
-- [[Modify Memory]]
-- [[Planar Binding]]
-- [[Raise Dead]]
-- [[Scrying]]
-- [[Seeming]]
-- [[Teleportation Circle]]
+- [[Animate Objects](Animate%20Objects.md)
+- [[Awaken.md]]
+- [[Dominate Person](Dominate%20Person.md)
+- [[Dream.md]]
+- [[Geas.md]]
+- [[Greater Restoration](Greater%20Restoration.md)
+- [[Hold Monster](Hold%20Monster.md)
+- [[Legend Lore](Legend%20Lore.md)
+- [[Mass Cure Wounds](Mass%20Cure%20Wounds.md)
+- [[Mislead.md]]
+- [[Modify Memory](Modify%20Memory.md)
+- [[Planar Binding](Planar%20Binding.md)
+- [[Raise Dead](Raise%20Dead.md)
+- [[Scrying.md]]
+- [[Seeming.md]]
+- [[Teleportation Circle](Teleportation%20Circle.md)
 
 #### 6th Level
 
-- [[Eyebite]]
-- [[Find the Path]]
-- [[Guards and Wards]]
-- [[Irresistible Dance]]
-- [[Mass Suggestion]]
-- [[Programmed Illusion]]
-- [[True Seeing]]
+- [[Eyebite.md]]
+- [[Find the Path](Find%20the%20Path.md)
+- [[Guards and Wards](Guards%20and%20Wards.md)
+- [[Irresistible Dance](Irresistible%20Dance.md)
+- [[Mass Suggestion](Mass%20Suggestion.md)
+- [[Programmed Illusion](Programmed%20Illusion.md)
+- [[True Seeing](True%20Seeing.md)
 
 #### 7th Level
 
-- [[Arcane Sword]]
-- [[Etherealness]]
-- [[Forcecage]]
-- [[Magnificent Mansion]]
-- [[Mirage Arcane]]
-- [[Project Image]]
-- [[Regenerate]]
-- [[Resurrection]]
-- [[Symbol]]
-- [[Teleport]]
+- [[Arcane Sword](Arcane%20Sword.md)
+- [[Etherealness.md]]
+- [[Forcecage.md]]
+- [[Magnificent Mansion](Magnificent%20Mansion.md)
+- [[Mirage Arcane](Mirage%20Arcane.md)
+- [[Project Image](Project%20Image.md)
+- [[Regenerate.md]]
+- [[Resurrection.md]]
+- [[Symbol.md]]
+- [[Teleport.md]]
 
 #### 8th Level
 
-- [[Dominate Monster]]
-- [[Feeblemind]]
-- [[Glibness]]
-- [[Mind Blank]]
-- [[Power Word Stun]]
+- [[Dominate Monster](Dominate%20Monster.md)
+- [[Feeblemind.md]]
+- [[Glibness.md]]
+- [[Mind Blank](Mind%20Blank.md)
+- [[Power Word Stun](Power%20Word%20Stun.md)
 
 #### 9th Level
 
-- [[Foresight]]
-- [[Power Word Kill]]
-- [[True Polymorph]]
+- [[Foresight.md]]
+- [[Power Word Kill](Power%20Word%20Kill.md)
+- [[True Polymorph](True%20Polymorph.md)
 
 ## Cleric Spells
 
 #### Cantrips (0 Level)
 
-- [[Guidance]]
-- [[Light]]
-- [[Mending]]
-- [[Resistance]]
-- [[Sacred Flame]]
-- [[Spare the Dying]]
-- [[Thaumaturgy]]
+- [[Guidance.md]]
+- [[Light.md]]
+- [[Mending.md]]
+- [[Resistance.md]]
+- [[Sacred Flame](Sacred%20Flame.md)
+- [[Spare the Dying](Spare%20the%20Dying.md)
+- [[Thaumaturgy.md]]
 
 #### 1st Level
 
-- [[Bane]]
-- [[Bless]]
-- [[Command]]
-- [[Create or Destroy Water]]
-- [[Cure Wounds]]
-- [[Detect Evil and Good]]
-- [[Detect Magic]]
-- [[Detect Poison and Disease]]
-- [[Guiding Bolt]]
-- [[Healing Word]]
-- [[Inflict Wounds]]
-- [[Protection from Evil and Good]]
-- [[Purify Food and Drink]]
-- [[Sanctuary]]
-- [[Shield of Faith]]
+- [[Bane.md]]
+- [[Bless.md]]
+- [[Command.md]]
+- [[Create or Destroy Water](Create%20or%20Destroy%20Water.md)
+- [[Cure Wounds](Cure%20Wounds.md)
+- [[Detect Evil and Good](Detect%20Evil%20and%20Good.md)
+- [[Detect Magic](Detect%20Magic.md)
+- [[Detect Poison and Disease](Detect%20Poison%20and%20Disease.md)
+- [[Guiding Bolt](Guiding%20Bolt.md)
+- [[Healing Word](Healing%20Word.md)
+- [[Inflict Wounds](Inflict%20Wounds.md)
+- [[Protection from Evil and Good](Protection%20from%20Evil%20and%20Good.md)
+- [[Purify Food and Drink](Purify%20Food%20and%20Drink.md)
+- [[Sanctuary.md]]
+- [[Shield of Faith](Shield%20of%20Faith.md)
 
 #### 2nd Level
 
-- [[Aid]]
-- [[Augury]]
-- [[Blindness-Deafness]]
-- [[Calm Emotions]]
-- [[Continual Flame]]
-- [[Enhance Ability]]
-- [[Find Traps]]
-- [[Gentle Repose]]
-- [[Hold Person]]
-- [[Lesser Restoration]]
-- [[Locate Object]]
-- [[Prayer of Healing]]
-- [[Protection from Poison]]
-- [[Silence]]
-- [[Spiritual Weapon]]
-- [[Warding Bond]]
-- [[Zone of Truth]]
+- [[Aid.md]]
+- [[Augury.md]]
+- [[Blindness-Deafness.md]]
+- [[Calm Emotions](Calm%20Emotions.md)
+- [[Continual Flame](Continual%20Flame.md)
+- [[Enhance Ability](Enhance%20Ability.md)
+- [[Find Traps](Find%20Traps.md)
+- [[Gentle Repose](Gentle%20Repose.md)
+- [[Hold Person](Hold%20Person.md)
+- [[Lesser Restoration](Lesser%20Restoration.md)
+- [[Locate Object](Locate%20Object.md)
+- [[Prayer of Healing](Prayer%20of%20Healing.md)
+- [[Protection from Poison](Protection%20from%20Poison.md)
+- [[Silence.md]]
+- [[Spiritual Weapon](Spiritual%20Weapon.md)
+- [[Warding Bond](Warding%20Bond.md)
+- [[Zone of Truth](Zone%20of%20Truth.md)
 
 #### 3rd Level
 
-- [[Animate Dead]]
-- [[Beacon of Hope]]
-- [[Bestow Curse]]
-- [[Clairvoyance]]
-- [[Create Food and Water]]
-- [[Daylight]]
-- [[Dispel Magic]]
-- [[Glyph of Warding]]
-- [[Magic Circle]]
-- [[Mass Healing Word]]
-- [[Meld into Stone]]
-- [[Protection from Energy]]
-- [[Remove Curse]]
-- [[Revivify]]
-- [[Sending]]
-- [[Speak with Dead]]
-- [[Spirit Guardians]]
-- [[Tongues]]
-- [[Water Walk]]
+- [[Animate Dead](Animate%20Dead.md)
+- [[Beacon of Hope](Beacon%20of%20Hope.md)
+- [[Bestow Curse](Bestow%20Curse.md)
+- [[Clairvoyance.md]]
+- [[Create Food and Water](Create%20Food%20and%20Water.md)
+- [[Daylight.md]]
+- [[Dispel Magic](Dispel%20Magic.md)
+- [[Glyph of Warding](Glyph%20of%20Warding.md)
+- [[Magic Circle](Magic%20Circle.md)
+- [[Mass Healing Word](Mass%20Healing%20Word.md)
+- [[Meld into Stone](Meld%20into%20Stone.md)
+- [[Protection from Energy](Protection%20from%20Energy.md)
+- [[Remove Curse](Remove%20Curse.md)
+- [[Revivify.md]]
+- [[Sending.md]]
+- [[Speak with Dead](Speak%20with%20Dead.md)
+- [[Spirit Guardians](Spirit%20Guardians.md)
+- [[Tongues.md]]
+- [[Water Walk](Water%20Walk.md)
 
 #### 4th Level
 
-- [[Banishment]]
-- [[Control Water]]
-- [[Death Ward]]
-- [[Divination]]
-- [[Freedom of Movement]]
-- [[Guardian of Faith]]
-- [[Locate Creature]]
-- [[Stone Shape]]
+- [[Banishment.md]]
+- [[Control Water](Control%20Water.md)
+- [[Death Ward](Death%20Ward.md)
+- [[Divination.md]]
+- [[Freedom of Movement](Freedom%20of%20Movement.md)
+- [[Guardian of Faith](Guardian%20of%20Faith.md)
+- [[Locate Creature](Locate%20Creature.md)
+- [[Stone Shape](Stone%20Shape.md)
 
 #### 5th Level
 
-- [[Commune]]
-- [[Contagion]]
-- [[Dispel Evil and Good]]
-- [[Flame Strike]]
-- [[Geas]]
-- [[Greater Restoration]]
-- [[Hallow]]
-- [[Insect Plague]]
-- [[Legend Lore]]
-- [[Mass Cure Wounds]]
-- [[Planar Binding]]
-- [[Raise Dead]]
-- [[Scrying]]
+- [[Commune.md]]
+- [[Contagion.md]]
+- [[Dispel Evil and Good](Dispel%20Evil%20and%20Good.md)
+- [[Flame Strike](Flame%20Strike.md)
+- [[Geas.md]]
+- [[Greater Restoration](Greater%20Restoration.md)
+- [[Hallow.md]]
+- [[Insect Plague](Insect%20Plague.md)
+- [[Legend Lore](Legend%20Lore.md)
+- [[Mass Cure Wounds](Mass%20Cure%20Wounds.md)
+- [[Planar Binding](Planar%20Binding.md)
+- [[Raise Dead](Raise%20Dead.md)
+- [[Scrying.md]]
 
 #### 6th Level
 
-- [[Blade Barrier]]
-- [[Create Undead]]
-- [[Find the Path]]
-- [[Forbiddance]]
-- [[Harm]]
-- [[Heal]]
-- [[Heroes' Feast]]
-- [[Planar Ally]]
-- [[True Seeing]]
-- [[Word of Recall]]
+- [[Blade Barrier](Blade%20Barrier.md)
+- [[Create Undead](Create%20Undead.md)
+- [[Find the Path](Find%20the%20Path.md)
+- [[Forbiddance.md]]
+- [[Harm.md]]
+- [[Heal.md]]
+- [[Heroes' Feast](Heroes'%20Feast.md)
+- [[Planar Ally](Planar%20Ally.md)
+- [[True Seeing](True%20Seeing.md)
+- [[Word of Recall](Word%20of%20Recall.md)
 
 #### 7th Level
 
-- [[Conjure Celestial]]
-- [[Divine Word]]
-- [[Etherealness]]
-- [[Fire Storm]]
-- [[Plane Shift]]
-- [[Regenerate]]
-- [[Resurrection]]
-- [[Symbol]]
+- [[Conjure Celestial](Conjure%20Celestial.md)
+- [[Divine Word](Divine%20Word.md)
+- [[Etherealness.md]]
+- [[Fire Storm](Fire%20Storm.md)
+- [[Plane Shift](Plane%20Shift.md)
+- [[Regenerate.md]]
+- [[Resurrection.md]]
+- [[Symbol.md]]
 
 #### 8th Level
 
-- [[Antimagic Field]]
-- [[Control Weather]]
-- [[Earthquake]]
-- [[Holy Aura]]
+- [[Antimagic Field](Antimagic%20Field.md)
+- [[Control Weather](Control%20Weather.md)
+- [[Earthquake.md]]
+- [[Holy Aura](Holy%20Aura.md)
 
 #### 9th Level
 
-- [[Astral Projection]]
-- [[Gate]]
-- [[Mass Heal]]
-- [[True Resurrection]]
+- [[Astral Projection](Astral%20Projection.md)
+- [[Gate.md]]
+- [[Mass Heal](Mass%20Heal.md)
+- [[True Resurrection](True%20Resurrection.md)
 
 ## Druid Spells
 
 #### Cantrips (0 Level)
 
-- [[Druidcraft]]
-- [[Guidance]]
-- [[Mending]]
-- [[Poison Spray]]
-- [[Produce Flame]]
-- [[Resistance]]
-- [[Shillelagh]]
+- [[Druidcraft.md]]
+- [[Guidance.md]]
+- [[Mending.md]]
+- [[Poison Spray](Poison%20Spray.md)
+- [[Produce Flame](Produce%20Flame.md)
+- [[Resistance.md]]
+- [[Shillelagh.md]]
 
 #### 1st Level
 
-- [[Animal Friendship]]
-- [[Charm Person]]
-- [[Create or Destroy Water]]
-- [[Cure Wounds]]
-- [[Detect Magic]]
-- [[Detect Poison and Disease]]
-- [[Entangle]]
-- [[Faerie Fire]]
-- [[Fog Cloud]]
-- [[Goodberry]]
-- [[Healing Word]]
-- [[Jump]]
-- [[Longstrider]]
-- [[Purify Food and Drink]]
-- [[Speak with Animals]]
-- [[Thunderwave]]
+- [[Animal Friendship](Animal%20Friendship.md)
+- [[Charm Person](Charm%20Person.md)
+- [[Create or Destroy Water](Create%20or%20Destroy%20Water.md)
+- [[Cure Wounds](Cure%20Wounds.md)
+- [[Detect Magic](Detect%20Magic.md)
+- [[Detect Poison and Disease](Detect%20Poison%20and%20Disease.md)
+- [[Entangle.md]]
+- [[Faerie Fire](Faerie%20Fire.md)
+- [[Fog Cloud](Fog%20Cloud.md)
+- [[Goodberry.md]]
+- [[Healing Word](Healing%20Word.md)
+- [[Jump.md]]
+- [[Longstrider.md]]
+- [[Purify Food and Drink](Purify%20Food%20and%20Drink.md)
+- [[Speak with Animals](Speak%20with%20Animals.md)
+- [[Thunderwave.md]]
 
 #### 2nd Level
 
-- [[Animal Messenger]]
-- [[Barkskin]]
-- [[Darkvision]]
-- [[Enhance Ability]]
-- [[Find Traps]]
-- [[Flame Blade]]
-- [[Flaming Sphere]]
-- [[Gust of Wind]]
-- [[Heat Metal]]
-- [[Hold Person]]
-- [[Lesser Restoration]]
-- [[Locate Animals or Plants]]
-- [[Locate Object]]
-- [[Moonbeam]]
-- [[Pass without Trace]]
-- [[Protection from Poison]]
-- [[Spike Growth]]
+- [[Animal Messenger](Animal%20Messenger.md)
+- [[Barkskin.md]]
+- [[Darkvision.md]]
+- [[Enhance Ability](Enhance%20Ability.md)
+- [[Find Traps](Find%20Traps.md)
+- [[Flame Blade](Flame%20Blade.md)
+- [[Flaming Sphere](Flaming%20Sphere.md)
+- [[Gust of Wind](Gust%20of%20Wind.md)
+- [[Heat Metal](Heat%20Metal.md)
+- [[Hold Person](Hold%20Person.md)
+- [[Lesser Restoration](Lesser%20Restoration.md)
+- [[Locate Animals or Plants](Locate%20Animals%20or%20Plants.md)
+- [[Locate Object](Locate%20Object.md)
+- [[Moonbeam.md]]
+- [[Pass without Trace](Pass%20without%20Trace.md)
+- [[Protection from Poison](Protection%20from%20Poison.md)
+- [[Spike Growth](Spike%20Growth.md)
 
 #### 3rd Level
 
-- [[Call Lightning]]
-- [[Conjure Animals]]
-- [[Daylight]]
-- [[Dispel Magic]]
-- [[Meld into Stone]]
-- [[Plant Growth]]
-- [[Protection from Energy]]
-- [[Sleet Storm]]
-- [[Speak with Plants]]
-- [[Water Breathing]]
-- [[Water Walk]]
-- [[Wind Wall]]
+- [[Call Lightning](Call%20Lightning.md)
+- [[Conjure Animals](Conjure%20Animals.md)
+- [[Daylight.md]]
+- [[Dispel Magic](Dispel%20Magic.md)
+- [[Meld into Stone](Meld%20into%20Stone.md)
+- [[Plant Growth](Plant%20Growth.md)
+- [[Protection from Energy](Protection%20from%20Energy.md)
+- [[Sleet Storm](Sleet%20Storm.md)
+- [[Speak with Plants](Speak%20with%20Plants.md)
+- [[Water Breathing](Water%20Breathing.md)
+- [[Water Walk](Water%20Walk.md)
+- [[Wind Wall](Wind%20Wall.md)
 
 #### 4th Level
 
-- [[Blight]]
-- [[Confusion]]
-- [[Conjure Minor Elementals]]
-- [[Conjure Woodland Beings]]
-- [[Control Water]]
-- [[Dominate Beast]]
-- [[Freedom of Movement]]
-- [[Giant Insect]]
-- [[Hallucinatory Terrain]]
-- [[Ice Storm]]
-- [[Locate Creature]]
-- [[Polymorph]]
-- [[Stone Shape]]
-- [[Stoneskin]]
-- [[Wall of Fire]]
+- [[Blight.md]]
+- [[Confusion.md]]
+- [[Conjure Minor Elementals](Conjure%20Minor%20Elementals.md)
+- [[Conjure Woodland Beings](Conjure%20Woodland%20Beings.md)
+- [[Control Water](Control%20Water.md)
+- [[Dominate Beast](Dominate%20Beast.md)
+- [[Freedom of Movement](Freedom%20of%20Movement.md)
+- [[Giant Insect](Giant%20Insect.md)
+- [[Hallucinatory Terrain](Hallucinatory%20Terrain.md)
+- [[Ice Storm](Ice%20Storm.md)
+- [[Locate Creature](Locate%20Creature.md)
+- [[Polymorph.md]]
+- [[Stone Shape](Stone%20Shape.md)
+- [[Stoneskin.md]]
+- [[Wall of Fire](Wall%20of%20Fire.md)
 
 #### 5th Level
 
-- [[Antilife Shell]]
-- [[Awaken]]
-- [[Commune with Nature]]
-- [[Conjure Elemental]]
-- [[Contagion]]
-- [[Geas]]
-- [[Greater Restoration]]
-- [[Insect Plague]]
-- [[Mass Cure Wounds]]
-- [[Planar Binding]]
-- [[Reincarnate]]
-- [[Scrying]]
-- [[Tree Stride]]
-- [[Wall of Stone]]
+- [[Antilife Shell](Antilife%20Shell.md)
+- [[Awaken.md]]
+- [[Commune with Nature](Commune%20with%20Nature.md)
+- [[Conjure Elemental](Conjure%20Elemental.md)
+- [[Contagion.md]]
+- [[Geas.md]]
+- [[Greater Restoration](Greater%20Restoration.md)
+- [[Insect Plague](Insect%20Plague.md)
+- [[Mass Cure Wounds](Mass%20Cure%20Wounds.md)
+- [[Planar Binding](Planar%20Binding.md)
+- [[Reincarnate.md]]
+- [[Scrying.md]]
+- [[Tree Stride](Tree%20Stride.md)
+- [[Wall of Stone](Wall%20of%20Stone.md)
 
 #### 6th Level
 
-- [[Conjure Fey]]
-- [[Find the Path]]
-- [[Heal]]
-- [[Heroes' Feast]]
-- [[Move Earth]]
-- [[Sunbeam]]
-- [[Transport via Plants]]
-- [[Wall of Thorns]]
-- [[Wind Walk]]
+- [[Conjure Fey](Conjure%20Fey.md)
+- [[Find the Path](Find%20the%20Path.md)
+- [[Heal.md]]
+- [[Heroes' Feast](Heroes'%20Feast.md)
+- [[Move Earth](Move%20Earth.md)
+- [[Sunbeam.md]]
+- [[Transport via Plants](Transport%20via%20Plants.md)
+- [[Wall of Thorns](Wall%20of%20Thorns.md)
+- [[Wind Walk](Wind%20Walk.md)
 
 #### 7th Level
 
-- [[Fire Storm]]
-- [[Mirage Arcane]]
-- [[Plane Shift]]
-- [[Regenerate]]
-- [[Reverse Gravity]]
+- [[Fire Storm](Fire%20Storm.md)
+- [[Mirage Arcane](Mirage%20Arcane.md)
+- [[Plane Shift](Plane%20Shift.md)
+- [[Regenerate.md]]
+- [[Reverse Gravity](Reverse%20Gravity.md)
 
 #### 8th Level
 
-- [[Animal Shapes]]
-- [[Antipathy-Sympathy]]
-- [[Control Weather]]
-- [[Earthquake]]
-- [[Feeblemind]]
-- [[Sunburst]]
+- [[Animal Shapes](Animal%20Shapes.md)
+- [[Antipathy-Sympathy.md]]
+- [[Control Weather](Control%20Weather.md)
+- [[Earthquake.md]]
+- [[Feeblemind.md]]
+- [[Sunburst.md]]
 
 #### 9th Level
 
-- [[Foresight]]
-- [[Shapechange]]
-- [[Storm of Vengeance]]
-- [[True Resurrection]]
+- [[Foresight.md]]
+- [[Shapechange.md]]
+- [[Storm of Vengeance](Storm%20of%20Vengeance.md)
+- [[True Resurrection](True%20Resurrection.md)
 
 ## Paladin Spells
 
 #### 1st Level
 
-- [[Bless]]
-- [[Command]]
-- [[Cure Wounds]]
-- [[Detect Evil and Good]]
-- [[Detect Magic]]
-- [[Detect Poison and Disease]]
-- [[Divine Favor]]
-- [[Heroism]]
-- [[Protection from Evil and Good]]
-- [[Purify Food and Drink]]
-- [[Shield of Faith]]
+- [[Bless.md]]
+- [[Command.md]]
+- [[Cure Wounds](Cure%20Wounds.md)
+- [[Detect Evil and Good](Detect%20Evil%20and%20Good.md)
+- [[Detect Magic](Detect%20Magic.md)
+- [[Detect Poison and Disease](Detect%20Poison%20and%20Disease.md)
+- [[Divine Favor](Divine%20Favor.md)
+- [[Heroism.md]]
+- [[Protection from Evil and Good](Protection%20from%20Evil%20and%20Good.md)
+- [[Purify Food and Drink](Purify%20Food%20and%20Drink.md)
+- [[Shield of Faith](Shield%20of%20Faith.md)
 
 #### 2nd Level
 
-- [[Aid]]
-- [[Branding Smite]]
-- [[Find Steed]]
-- [[Lesser Restoration]]
-- [[Locate Object]]
-- [[Magic Weapon]]
-- [[Protection from Poison]]
-- [[Zone of Truth]]
+- [[Aid.md]]
+- [[Branding Smite](Branding%20Smite.md)
+- [[Find Steed](Find%20Steed.md)
+- [[Lesser Restoration](Lesser%20Restoration.md)
+- [[Locate Object](Locate%20Object.md)
+- [[Magic Weapon](Magic%20Weapon.md)
+- [[Protection from Poison](Protection%20from%20Poison.md)
+- [[Zone of Truth](Zone%20of%20Truth.md)
 
 #### 3rd Level
 
-- [[Create Food and Water]]
-- [[Daylight]]
-- [[Dispel Magic]]
-- [[Magic Circle]]
-- [[Remove Curse]]
-- [[Revivify]]
+- [[Create Food and Water](Create%20Food%20and%20Water.md)
+- [[Daylight.md]]
+- [[Dispel Magic](Dispel%20Magic.md)
+- [[Magic Circle](Magic%20Circle.md)
+- [[Remove Curse](Remove%20Curse.md)
+- [[Revivify.md]]
 
 #### 4th Level
 
-- [[Banishment]]
-- [[Death Ward]]
-- [[Locate Creature]]
+- [[Banishment.md]]
+- [[Death Ward](Death%20Ward.md)
+- [[Locate Creature](Locate%20Creature.md)
 
 #### 5th Level
 
-- [[Dispel Evil and Good]]
-- [[Geas]]
-- [[Raise Dead]]
+- [[Dispel Evil and Good](Dispel%20Evil%20and%20Good.md)
+- [[Geas.md]]
+- [[Raise Dead](Raise%20Dead.md)
 
 ## Ranger Spells
 
 #### 1st Level
 
-- [[Alarm]]
-- [[Animal Friendship]]
-- [[Cure Wounds]]
-- [[Detect Magic]]
-- [[Detect Poison and Disease]]
-- [[Fog Cloud]]
-- [[Goodberry]]
-- [[Hunter's Mark]]
-- [[Jump]]
-- [[Longstrider]]
-- [[Speak with Animals]]
+- [[Alarm.md]]
+- [[Animal Friendship](Animal%20Friendship.md)
+- [[Cure Wounds](Cure%20Wounds.md)
+- [[Detect Magic](Detect%20Magic.md)
+- [[Detect Poison and Disease](Detect%20Poison%20and%20Disease.md)
+- [[Fog Cloud](Fog%20Cloud.md)
+- [[Goodberry.md]]
+- [[Hunter's Mark](Hunter's%20Mark.md)
+- [[Jump.md]]
+- [[Longstrider.md]]
+- [[Speak with Animals](Speak%20with%20Animals.md)
 
 #### 2nd Level
 
-- [[Animal Messenger]]
-- [[Barkskin]]
-- [[Darkvision]]
-- [[Find Traps]]
-- [[Lesser Restoration]]
-- [[Locate Animals or Plants]]
-- [[Locate Object]]
-- [[Pass without Trace]]
-- [[Protection from Poison]]
-- [[Silence]]
-- [[Spike Growth]]
+- [[Animal Messenger](Animal%20Messenger.md)
+- [[Barkskin.md]]
+- [[Darkvision.md]]
+- [[Find Traps](Find%20Traps.md)
+- [[Lesser Restoration](Lesser%20Restoration.md)
+- [[Locate Animals or Plants](Locate%20Animals%20or%20Plants.md)
+- [[Locate Object](Locate%20Object.md)
+- [[Pass without Trace](Pass%20without%20Trace.md)
+- [[Protection from Poison](Protection%20from%20Poison.md)
+- [[Silence.md]]
+- [[Spike Growth](Spike%20Growth.md)
 
 #### 3rd Level
 
-- [[Conjure Animals]]
-- [[Daylight]]
-- [[Nondetection]]
-- [[Plant Growth]]
-- [[Protection from Energy]]
-- [[Speak with Plants]]
-- [[Water Breathing]]
-- [[Water Walk]]
-- [[Wind Wall]]
+- [[Conjure Animals](Conjure%20Animals.md)
+- [[Daylight.md]]
+- [[Nondetection.md]]
+- [[Plant Growth](Plant%20Growth.md)
+- [[Protection from Energy](Protection%20from%20Energy.md)
+- [[Speak with Plants](Speak%20with%20Plants.md)
+- [[Water Breathing](Water%20Breathing.md)
+- [[Water Walk](Water%20Walk.md)
+- [[Wind Wall](Wind%20Wall.md)
 
 #### 4th Level
 
-- [[Conjure Woodland Beings]]
-- [[Freedom of Movement]]
-- [[Locate Creature]]
-- [[Stoneskin]]
+- [[Conjure Woodland Beings](Conjure%20Woodland%20Beings.md)
+- [[Freedom of Movement](Freedom%20of%20Movement.md)
+- [[Locate Creature](Locate%20Creature.md)
+- [[Stoneskin.md]]
 
 #### 5th Level
 
-- [[Commune with Nature]]
-- [[Tree Stride]]
+- [[Commune with Nature](Commune%20with%20Nature.md)
+- [[Tree Stride](Tree%20Stride.md)
 
 ## Sorcerer Spells
 
 #### Cantrips (0 Level)
 
-- [[Acid Splash]]
-- [[Chill Touch]]
-- [[Dancing Lights]]
-- [[Fire Bolt]]
-- [[Light]]
-- [[Mage Hand]]
-- [[Mending]]
-- [[Message]]
-- [[Minor Illusion]]
-- [[Poison Spray]]
-- [[Prestidigitation]]
-- [[Ray of Frost]]
-- [[Shocking Grasp]]
-- [[True Strike]]
+- [[Acid Splash](Acid%20Splash.md)
+- [[Chill Touch](Chill%20Touch.md)
+- [[Dancing Lights](Dancing%20Lights.md)
+- [[Fire Bolt](Fire%20Bolt.md)
+- [[Light.md]]
+- [[Mage Hand](Mage%20Hand.md)
+- [[Mending.md]]
+- [[Message.md]]
+- [[Minor Illusion](Minor%20Illusion.md)
+- [[Poison Spray](Poison%20Spray.md)
+- [[Prestidigitation.md]]
+- [[Ray of Frost](Ray%20of%20Frost.md)
+- [[Shocking Grasp](Shocking%20Grasp.md)
+- [[True Strike](True%20Strike.md)
 
 #### 1st Level
 
-- [[Burning Hands]]
-- [[Charm Person]]
-- [[Color Spray]]
-- [[Comprehend Languages]]
-- [[Detect Magic]]
-- [[Disguise Self]]
-- [[Expeditious Retreat]]
-- [[False Life]]
-- [[Feather Fall]]
-- [[Fog Cloud]]
-- [[Jump]]
-- [[Mage Armor]]
-- [[Magic Missile]]
-- [[Shield]]
-- [[Silent Image]]
-- [[Sleep]]
-- [[Thunderwave]]
+- [[Burning Hands](Burning%20Hands.md)
+- [[Charm Person](Charm%20Person.md)
+- [[Color Spray](Color%20Spray.md)
+- [[Comprehend Languages](Comprehend%20Languages.md)
+- [[Detect Magic](Detect%20Magic.md)
+- [[Disguise Self](Disguise%20Self.md)
+- [[Expeditious Retreat](Expeditious%20Retreat.md)
+- [[False Life](False%20Life.md)
+- [[Feather Fall](Feather%20Fall.md)
+- [[Fog Cloud](Fog%20Cloud.md)
+- [[Jump.md]]
+- [[Mage Armor](Mage%20Armor.md)
+- [[Magic Missile](Magic%20Missile.md)
+- [[Shield.md]]
+- [[Silent Image](Silent%20Image.md)
+- [[Sleep.md]]
+- [[Thunderwave.md]]
 
 #### 2nd Level
 
-- [[Alter Self]]
-- [[Blindness-Deafness]]
-- [[Blur]]
-- [[Darkness]]
-- [[Darkvision]]
-- [[Detect Thoughts]]
-- [[Enhance Ability]]
-- [[Enlarge-Reduce]]
-- [[Gust of Wind]]
-- [[Hold Person]]
-- [[Invisibility]]
-- [[Knock]]
-- [[Levitate]]
-- [[Mirror Image]]
-- [[Misty Step]]
-- [[Scorching Ray]]
-- [[See Invisibility]]
-- [[Shatter]]
-- [[Spider Climb]]
-- [[Suggestion]]
-- [[Web]]
+- [[Alter Self](Alter%20Self.md)
+- [[Blindness-Deafness.md]]
+- [[Blur.md]]
+- [[Darkness.md]]
+- [[Darkvision.md]]
+- [[Detect Thoughts](Detect%20Thoughts.md)
+- [[Enhance Ability](Enhance%20Ability.md)
+- [[Enlarge-Reduce.md]]
+- [[Gust of Wind](Gust%20of%20Wind.md)
+- [[Hold Person](Hold%20Person.md)
+- [[Invisibility.md]]
+- [[Knock.md]]
+- [[Levitate.md]]
+- [[Mirror Image](Mirror%20Image.md)
+- [[Misty Step](Misty%20Step.md)
+- [[Scorching Ray](Scorching%20Ray.md)
+- [[See Invisibility](See%20Invisibility.md)
+- [[Shatter.md]]
+- [[Spider Climb](Spider%20Climb.md)
+- [[Suggestion.md]]
+- [[Web.md]]
 
 #### 3rd Level
 
-- [[Blink]]
-- [[Clairvoyance]]
-- [[Counterspell]]
-- [[Daylight]]
-- [[Dispel Magic]]
-- [[Fear]]
-- [[Fireball]]
-- [[Fly]]
-- [[Gaseous Form]]
-- [[Haste]]
-- [[Hypnotic Pattern]]
-- [[Lightning Bolt]]
-- [[Major Image]]
-- [[Protection from Energy]]
-- [[Sleet Storm]]
-- [[Slow]]
-- [[Stinking Cloud]]
-- [[Tongues]]
-- [[Water Breathing]]
-- [[Water Walk]]
+- [[Blink.md]]
+- [[Clairvoyance.md]]
+- [[Counterspell.md]]
+- [[Daylight.md]]
+- [[Dispel Magic](Dispel%20Magic.md)
+- [[Fear.md]]
+- [[Fireball.md]]
+- [[Fly.md]]
+- [[Gaseous Form](Gaseous%20Form.md)
+- [[Haste.md]]
+- [[Hypnotic Pattern](Hypnotic%20Pattern.md)
+- [[Lightning Bolt](Lightning%20Bolt.md)
+- [[Major Image](Major%20Image.md)
+- [[Protection from Energy](Protection%20from%20Energy.md)
+- [[Sleet Storm](Sleet%20Storm.md)
+- [[Slow.md]]
+- [[Stinking Cloud](Stinking%20Cloud.md)
+- [[Tongues.md]]
+- [[Water Breathing](Water%20Breathing.md)
+- [[Water Walk](Water%20Walk.md)
 
 #### 4th Level
 
-- [[Banishment]]
-- [[Blight]]
-- [[Confusion]]
-- [[Dimension Door]]
-- [[Dominate Beast]]
-- [[Greater Invisibility]]
-- [[Ice Storm]]
-- [[Polymorph]]
-- [[Stoneskin]]
-- [[Wall of Fire]]
+- [[Banishment.md]]
+- [[Blight.md]]
+- [[Confusion.md]]
+- [[Dimension Door](Dimension%20Door.md)
+- [[Dominate Beast](Dominate%20Beast.md)
+- [[Greater Invisibility](Greater%20Invisibility.md)
+- [[Ice Storm](Ice%20Storm.md)
+- [[Polymorph.md]]
+- [[Stoneskin.md]]
+- [[Wall of Fire](Wall%20of%20Fire.md)
 
 #### 5th Level
 
-- [[Animate Objects]]
-- [[Cloudkill]]
-- [[Cone of Cold]]
-- [[Creation]]
-- [[Dominate Person]]
-- [[Hold Monster]]
-- [[Insect Plague]]
-- [[Seeming]]
-- [[Telekinesis]]
-- [[Teleportation Circle]]
-- [[Wall of Stone]]
+- [[Animate Objects](Animate%20Objects.md)
+- [[Cloudkill.md]]
+- [[Cone of Cold](Cone%20of%20Cold.md)
+- [[Creation.md]]
+- [[Dominate Person](Dominate%20Person.md)
+- [[Hold Monster](Hold%20Monster.md)
+- [[Insect Plague](Insect%20Plague.md)
+- [[Seeming.md]]
+- [[Telekinesis.md]]
+- [[Teleportation Circle](Teleportation%20Circle.md)
+- [[Wall of Stone](Wall%20of%20Stone.md)
 
 #### 6th Level
 
-- [[Chain Lightning]]
-- [[Circle of Death]]
-- [[Disintegrate]]
-- [[Eyebite]]
-- [[Globe of Invulnerability]]
-- [[Mass Suggestion]]
-- [[Move Earth]]
-- [[Sunbeam]]
-- [[True Seeing]]
+- [[Chain Lightning](Chain%20Lightning.md)
+- [[Circle of Death](Circle%20of%20Death.md)
+- [[Disintegrate.md]]
+- [[Eyebite.md]]
+- [[Globe of Invulnerability](Globe%20of%20Invulnerability.md)
+- [[Mass Suggestion](Mass%20Suggestion.md)
+- [[Move Earth](Move%20Earth.md)
+- [[Sunbeam.md]]
+- [[True Seeing](True%20Seeing.md)
 
 #### 7th Level
 
-- [[Delayed Blast Fireball]]
-- [[Etherealness]]
-- [[Finger of Death]]
-- [[Fire Storm]]
-- [[Plane Shift]]
-- [[Prismatic Spray]]
-- [[Reverse Gravity]]
-- [[Teleport]]
+- [[Delayed Blast Fireball](Delayed%20Blast%20Fireball.md)
+- [[Etherealness.md]]
+- [[Finger of Death](Finger%20of%20Death.md)
+- [[Fire Storm](Fire%20Storm.md)
+- [[Plane Shift](Plane%20Shift.md)
+- [[Prismatic Spray](Prismatic%20Spray.md)
+- [[Reverse Gravity](Reverse%20Gravity.md)
+- [[Teleport.md]]
 
 #### 8th Level
 
-- [[Dominate Monster]]
-- [[Earthquake]]
-- [[Incendiary Cloud]]
-- [[Power Word Stun]]
-- [[Sunburst]]
+- [[Dominate Monster](Dominate%20Monster.md)
+- [[Earthquake.md]]
+- [[Incendiary Cloud](Incendiary%20Cloud.md)
+- [[Power Word Stun](Power%20Word%20Stun.md)
+- [[Sunburst.md]]
 
 #### 9th Level
 
-- [[Gate]]
-- [[Meteor Swarm]]
-- [[Power Word Kill]]
-- [[Time Stop]]
-- [[Wish]]
+- [[Gate.md]]
+- [[Meteor Swarm](Meteor%20Swarm.md)
+- [[Power Word Kill](Power%20Word%20Kill.md)
+- [[Time Stop](Time%20Stop.md)
+- [[Wish.md]]
 
 ## Warlock Spells
 
 #### Cantrips (0 Level)
 
-- [[Chill Touch]]
-- [[Eldritch Blast]]
-- [[Mage Hand]]
-- [[Minor Illusion]]
-- [[Poison Spray]]
-- [[Prestidigitation]]
-- [[True Strike]]
+- [[Chill Touch](Chill%20Touch.md)
+- [[Eldritch Blast](Eldritch%20Blast.md)
+- [[Mage Hand](Mage%20Hand.md)
+- [[Minor Illusion](Minor%20Illusion.md)
+- [[Poison Spray](Poison%20Spray.md)
+- [[Prestidigitation.md]]
+- [[True Strike](True%20Strike.md)
 
 #### 1st Level
 
-- [[Charm Person]]
-- [[Comprehend Languages]]
-- [[Expeditious Retreat]]
-- [[Hellish Rebuke]]
-- [[Illusory Script]]
-- [[Protection from Evil and Good]]
-- [[Unseen Servant]]
+- [[Charm Person](Charm%20Person.md)
+- [[Comprehend Languages](Comprehend%20Languages.md)
+- [[Expeditious Retreat](Expeditious%20Retreat.md)
+- [[Hellish Rebuke](Hellish%20Rebuke.md)
+- [[Illusory Script](Illusory%20Script.md)
+- [[Protection from Evil and Good](Protection%20from%20Evil%20and%20Good.md)
+- [[Unseen Servant](Unseen%20Servant.md)
 
 #### 2nd Level
 
-- [[Darkness]]
-- [[Enthrall]]
-- [[Hold Person]]
-- [[Invisibility]]
-- [[Mirror Image]]
-- [[Misty Step]]
-- [[Ray of Enfeeblement]]
-- [[Shatter]]
-- [[Spider Climb]]
-- [[Suggestion]]
+- [[Darkness.md]]
+- [[Enthrall.md]]
+- [[Hold Person](Hold%20Person.md)
+- [[Invisibility.md]]
+- [[Mirror Image](Mirror%20Image.md)
+- [[Misty Step](Misty%20Step.md)
+- [[Ray of Enfeeblement](Ray%20of%20Enfeeblement.md)
+- [[Shatter.md]]
+- [[Spider Climb](Spider%20Climb.md)
+- [[Suggestion.md]]
 
 #### 3rd Level
-- [[Counterspell]]
-- [[Dispel Magic]]
-- [[Fear]]
-- [[Fly]]
-- [[Gaseous Form]]
-- [[Hypnotic Pattern]]
-- [[Magic Circle]]
-- [[Major Image]]
-- [[Remove Curse]]
-- [[Tongues]]
-- [[Vampiric Touch]]
+- [[Counterspell.md]]
+- [[Dispel Magic](Dispel%20Magic.md)
+- [[Fear.md]]
+- [[Fly.md]]
+- [[Gaseous Form](Gaseous%20Form.md)
+- [[Hypnotic Pattern](Hypnotic%20Pattern.md)
+- [[Magic Circle](Magic%20Circle.md)
+- [[Major Image](Major%20Image.md)
+- [[Remove Curse](Remove%20Curse.md)
+- [[Tongues.md]]
+- [[Vampiric Touch](Vampiric%20Touch.md)
 
 #### 4th Level
 
-- [[Banishment]]
-- [[Blight]]
-- [[Dimension Door]]
-- [[Hallucinatory Terrain]]
+- [[Banishment.md]]
+- [[Blight.md]]
+- [[Dimension Door](Dimension%20Door.md)
+- [[Hallucinatory Terrain](Hallucinatory%20Terrain.md)
 
 #### 5th Level
 
-- [[Contact Other Plane]]
-- [[Dream]]
-- [[Hold Monster]]
-- [[Scrying]]
+- [[Contact Other Plane](Contact%20Other%20Plane.md)
+- [[Dream.md]]
+- [[Hold Monster](Hold%20Monster.md)
+- [[Scrying.md]]
 
 #### 6th Level
 
-- [[Circle of Death]]
-- [[Conjure Fey]]
-- [[Create Undead]]
-- [[Eyebite]]
-- [[Flesh to Stone]]
-- [[Mass Suggestion]]
-- [[True Seeing]]
+- [[Circle of Death](Circle%20of%20Death.md)
+- [[Conjure Fey](Conjure%20Fey.md)
+- [[Create Undead](Create%20Undead.md)
+- [[Eyebite.md]]
+- [[Flesh to Stone](Flesh%20to%20Stone.md)
+- [[Mass Suggestion](Mass%20Suggestion.md)
+- [[True Seeing](True%20Seeing.md)
 
 #### 7th Level
 
-- [[Etherealness]]
-- [[Finger of Death]]
-- [[Forcecage]]
-- [[Plane Shift]]
+- [[Etherealness.md]]
+- [[Finger of Death](Finger%20of%20Death.md)
+- [[Forcecage.md]]
+- [[Plane Shift](Plane%20Shift.md)
 
 #### 8th Level
 
-- [[Demiplane]]
-- [[Dominate Monster]]
-- [[Feeblemind]]
-- [[Glibness]]
-- [[Power Word Stun]]
+- [[Demiplane.md]]
+- [[Dominate Monster](Dominate%20Monster.md)
+- [[Feeblemind.md]]
+- [[Glibness.md]]
+- [[Power Word Stun](Power%20Word%20Stun.md)
 
 #### 9th Level
 
-- [[Astral Projection]]
-- [[Foresight]]
-- [[Imprisonment]]
-- [[Power Word Kill]]
-- [[True Polymorph]]
+- [[Astral Projection](Astral%20Projection.md)
+- [[Foresight.md]]
+- [[Imprisonment.md]]
+- [[Power Word Kill](Power%20Word%20Kill.md)
+- [[True Polymorph](True%20Polymorph.md)
 
 ## Wizard Spells
 
 #### Cantrips (0 Level)
 
-- [[Acid Splash]]
-- [[Chill Touch]]
-- [[Dancing Lights]]
-- [[Fire Bolt]]
-- [[Light]]
-- [[Mage Hand]]
-- [[Mending]]
-- [[Message]]
-- [[Minor Illusion]]
-- [[Poison Spray]]
-- [[Prestidigitation]]
-- [[Ray of Frost]]
-- [[Shocking Grasp]]
-- [[True Strike]]
+- [[Acid Splash](Acid%20Splash.md)
+- [[Chill Touch](Chill%20Touch.md)
+- [[Dancing Lights](Dancing%20Lights.md)
+- [[Fire Bolt](Fire%20Bolt.md)
+- [[Light.md]]
+- [[Mage Hand](Mage%20Hand.md)
+- [[Mending.md]]
+- [[Message.md]]
+- [[Minor Illusion](Minor%20Illusion.md)
+- [[Poison Spray](Poison%20Spray.md)
+- [[Prestidigitation.md]]
+- [[Ray of Frost](Ray%20of%20Frost.md)
+- [[Shocking Grasp](Shocking%20Grasp.md)
+- [[True Strike](True%20Strike.md)
 
 #### 1st Level
 
-- [[Alarm]]
-- [[Burning Hands]]
-- [[Charm Person]]
-- [[Color Spray]]
-- [[Comprehend Languages]]
-- [[Detect Magic]]
-- [[Disguise Self]]
-- [[Expeditious Retreat]]
-- [[False Life]]
-- [[Feather Fall]]
-- [[Find Familiar]]
-- [[Floating Disk]]
-- [[Fog Cloud]]
-- [[Grease]]
-- [[Hideous Laughter]]
-- [[Identify]]
-- [[Illusory Script]]
-- [[Jump]]
-- [[Longstrider]]
-- [[Mage Armor]]
-- [[Magic Missile]]
-- [[Protection from Evil and Good]]
-- [[Shield]]
-- [[Silent Image]]
-- [[Sleep]]
-- [[Thunderwave]]
-- [[Unseen Servant]]
+- [[Alarm.md]]
+- [[Burning Hands](Burning%20Hands.md)
+- [[Charm Person](Charm%20Person.md)
+- [[Color Spray](Color%20Spray.md)
+- [[Comprehend Languages](Comprehend%20Languages.md)
+- [[Detect Magic](Detect%20Magic.md)
+- [[Disguise Self](Disguise%20Self.md)
+- [[Expeditious Retreat](Expeditious%20Retreat.md)
+- [[False Life](False%20Life.md)
+- [[Feather Fall](Feather%20Fall.md)
+- [[Find Familiar](Find%20Familiar.md)
+- [[Floating Disk](Floating%20Disk.md)
+- [[Fog Cloud](Fog%20Cloud.md)
+- [[Grease.md]]
+- [[Hideous Laughter](Hideous%20Laughter.md)
+- [[Identify.md]]
+- [[Illusory Script](Illusory%20Script.md)
+- [[Jump.md]]
+- [[Longstrider.md]]
+- [[Mage Armor](Mage%20Armor.md)
+- [[Magic Missile](Magic%20Missile.md)
+- [[Protection from Evil and Good](Protection%20from%20Evil%20and%20Good.md)
+- [[Shield.md]]
+- [[Silent Image](Silent%20Image.md)
+- [[Sleep.md]]
+- [[Thunderwave.md]]
+- [[Unseen Servant](Unseen%20Servant.md)
 
 #### 2nd Level
 
-- [[Acid Arrow]]
-- [[Alter Self]]
-- [[Arcane Lock]]
-- [[Arcanist's Magic Aura]]
-- [[Blindness-Deafness]]
-- [[Blur]]
-- [[Continual Flame]]
-- [[Darkness]]
-- [[Darkvision]]
-- [[Detect Thoughts]]
-- [[Enlarge-Reduce]]
-- [[Flaming Sphere]]
-- [[Gentle Repose]]
-- [[Gust of Wind]]
-- [[Hold Person]]
-- [[Invisibility]]
-- [[Knock]]
-- [[Levitate]]
-- [[Locate Object]]
-- [[Magic Mouth]]
-- [[Magic Weapon]]
-- [[Mirror Image]]
-- [[Misty Step]]
-- [[Ray of Enfeeblement]]
-- [[Rope Trick]]
-- [[Scorching Ray]]
-- [[See Invisibility]]
-- [[Shatter]]
-- [[Spider Climb]]
-- [[Suggestion]]
-- [[Web]]
+- [[Acid Arrow](Acid%20Arrow.md)
+- [[Alter Self](Alter%20Self.md)
+- [[Arcane Lock](Arcane%20Lock.md)
+- [[Arcanist's Magic Aura](Arcanist's%20Magic%20Aura.md)
+- [[Blindness-Deafness.md]]
+- [[Blur.md]]
+- [[Continual Flame](Continual%20Flame.md)
+- [[Darkness.md]]
+- [[Darkvision.md]]
+- [[Detect Thoughts](Detect%20Thoughts.md)
+- [[Enlarge-Reduce.md]]
+- [[Flaming Sphere](Flaming%20Sphere.md)
+- [[Gentle Repose](Gentle%20Repose.md)
+- [[Gust of Wind](Gust%20of%20Wind.md)
+- [[Hold Person](Hold%20Person.md)
+- [[Invisibility.md]]
+- [[Knock.md]]
+- [[Levitate.md]]
+- [[Locate Object](Locate%20Object.md)
+- [[Magic Mouth](Magic%20Mouth.md)
+- [[Magic Weapon](Magic%20Weapon.md)
+- [[Mirror Image](Mirror%20Image.md)
+- [[Misty Step](Misty%20Step.md)
+- [[Ray of Enfeeblement](Ray%20of%20Enfeeblement.md)
+- [[Rope Trick](Rope%20Trick.md)
+- [[Scorching Ray](Scorching%20Ray.md)
+- [[See Invisibility](See%20Invisibility.md)
+- [[Shatter.md]]
+- [[Spider Climb](Spider%20Climb.md)
+- [[Suggestion.md]]
+- [[Web.md]]
 
 #### 3rd Level
 
-- [[Animate Dead]]
-- [[Bestow Curse]]
-- [[Blink]]
-- [[Clairvoyance]]
-- [[Counterspell]]
-- [[Dispel Magic]]
-- [[Fear]]
-- [[Fireball]]
-- [[Fly]]
-- [[Gaseous Form]]
-- [[Glyph of Warding]]
-- [[Haste]]
-- [[Hypnotic Pattern]]
-- [[Lightning Bolt]]
-- [[Magic Circle]]
-- [[Major Image]]
-- [[Nondetection]]
-- [[Phantom Steed]]
-- [[Protection from Energy]]
-- [[Remove Curse]]
-- [[Sending]]
-- [[Sleet Storm]]
-- [[Slow]]
-- [[Stinking Cloud]]
-- [[Tiny Hut]]
-- [[Tongues]]
-- [[Vampiric Touch]]
-- [[Water Breathing]]
+- [[Animate Dead](Animate%20Dead.md)
+- [[Bestow Curse](Bestow%20Curse.md)
+- [[Blink.md]]
+- [[Clairvoyance.md]]
+- [[Counterspell.md]]
+- [[Dispel Magic](Dispel%20Magic.md)
+- [[Fear.md]]
+- [[Fireball.md]]
+- [[Fly.md]]
+- [[Gaseous Form](Gaseous%20Form.md)
+- [[Glyph of Warding](Glyph%20of%20Warding.md)
+- [[Haste.md]]
+- [[Hypnotic Pattern](Hypnotic%20Pattern.md)
+- [[Lightning Bolt](Lightning%20Bolt.md)
+- [[Magic Circle](Magic%20Circle.md)
+- [[Major Image](Major%20Image.md)
+- [[Nondetection.md]]
+- [[Phantom Steed](Phantom%20Steed.md)
+- [[Protection from Energy](Protection%20from%20Energy.md)
+- [[Remove Curse](Remove%20Curse.md)
+- [[Sending.md]]
+- [[Sleet Storm](Sleet%20Storm.md)
+- [[Slow.md]]
+- [[Stinking Cloud](Stinking%20Cloud.md)
+- [[Tiny Hut](Tiny%20Hut.md)
+- [[Tongues.md]]
+- [[Vampiric Touch](Vampiric%20Touch.md)
+- [[Water Breathing](Water%20Breathing.md)
 
 #### 4th Level
 
-- [[Arcane Eye]]
-- [[Banishment]]
-- [[Black Tentacles]]
-- [[Blight]]
-- [[Confusion]]
-- [[Conjure Minor Elementals]]
-- [[Control Water]]
-- [[Dimension Door]]
-- [[Fabricate]]
-- [[Faithful Hound]]
-- [[Fire Shield]]
-- [[Greater Invisibility]]
-- [[Hallucinatory Terrain]]
-- [[Ice Storm]]
-- [[Locate Creature]]
-- [[Phantasmal Killer]]
-- [[Polymorph]]
-- [[Private Sanctum]]
-- [[Resilient Sphere]]
-- [[Secret Chest]]
-- [[Stone Shape]]
-- [[Stoneskin]]
-- [[Wall of Fire]]
+- [[Arcane Eye](Arcane%20Eye.md)
+- [[Banishment.md]]
+- [[Black Tentacles](Black%20Tentacles.md)
+- [[Blight.md]]
+- [[Confusion.md]]
+- [[Conjure Minor Elementals](Conjure%20Minor%20Elementals.md)
+- [[Control Water](Control%20Water.md)
+- [[Dimension Door](Dimension%20Door.md)
+- [[Fabricate.md]]
+- [[Faithful Hound](Faithful%20Hound.md)
+- [[Fire Shield](Fire%20Shield.md)
+- [[Greater Invisibility](Greater%20Invisibility.md)
+- [[Hallucinatory Terrain](Hallucinatory%20Terrain.md)
+- [[Ice Storm](Ice%20Storm.md)
+- [[Locate Creature](Locate%20Creature.md)
+- [[Phantasmal Killer](Phantasmal%20Killer.md)
+- [[Polymorph.md]]
+- [[Private Sanctum](Private%20Sanctum.md)
+- [[Resilient Sphere](Resilient%20Sphere.md)
+- [[Secret Chest](Secret%20Chest.md)
+- [[Stone Shape](Stone%20Shape.md)
+- [[Stoneskin.md]]
+- [[Wall of Fire](Wall%20of%20Fire.md)
 
 #### 5th Level
 
-- [[Animate Objects]]
-- [[Arcane Hand]]
-- [[Cloudkill]]
-- [[Cone of Cold]]
-- [[Conjure Elemental]]
-- [[Contact Other Plane]]
-- [[Creation]]
-- [[Dominate Person]]
-- [[Dream]]
-- [[Geas]]
-- [[Hold Monster]]
-- [[Legend Lore]]
-- [[Mislead]]
-- [[Modify Memory]]
-- [[Passwall]]
-- [[Planar Binding]]
-- [[Scrying]]
-- [[Seeming]]
-- [[Telekinesis]]
-- [[Telepathic Bond]]
-- [[Teleportation Circle]]
-- [[Wall of Force]]
-- [[Wall of Stone]]
+- [[Animate Objects](Animate%20Objects.md)
+- [[Arcane Hand](Arcane%20Hand.md)
+- [[Cloudkill.md]]
+- [[Cone of Cold](Cone%20of%20Cold.md)
+- [[Conjure Elemental](Conjure%20Elemental.md)
+- [[Contact Other Plane](Contact%20Other%20Plane.md)
+- [[Creation.md]]
+- [[Dominate Person](Dominate%20Person.md)
+- [[Dream.md]]
+- [[Geas.md]]
+- [[Hold Monster](Hold%20Monster.md)
+- [[Legend Lore](Legend%20Lore.md)
+- [[Mislead.md]]
+- [[Modify Memory](Modify%20Memory.md)
+- [[Passwall.md]]
+- [[Planar Binding](Planar%20Binding.md)
+- [[Scrying.md]]
+- [[Seeming.md]]
+- [[Telekinesis.md]]
+- [[Telepathic Bond](Telepathic%20Bond.md)
+- [[Teleportation Circle](Teleportation%20Circle.md)
+- [[Wall of Force](Wall%20of%20Force.md)
+- [[Wall of Stone](Wall%20of%20Stone.md)
 
 #### 6th Level
 
-- [[Chain Lightning]]
-- [[Circle of Death]]
-- [[Contingency]]
-- [[Create Undead]]
-- [[Disintegrate]]
-- [[Eyebite]]
-- [[Flesh to Stone]]
-- [[Freezing Sphere]]
-- [[Globe of Invulnerability]]
-- [[Guards and Wards]]
-- [[Instant Summons]]
-- [[Irresistible Dance]]
-- [[Magic Jar]]
-- [[Mass Suggestion]]
-- [[Move Earth]]
-- [[Programmed Illusion]]
-- [[Sunbeam]]
-- [[True Seeing]]
-- [[Wall of Ice]]
+- [[Chain Lightning](Chain%20Lightning.md)
+- [[Circle of Death](Circle%20of%20Death.md)
+- [[Contingency.md]]
+- [[Create Undead](Create%20Undead.md)
+- [[Disintegrate.md]]
+- [[Eyebite.md]]
+- [[Flesh to Stone](Flesh%20to%20Stone.md)
+- [[Freezing Sphere](Freezing%20Sphere.md)
+- [[Globe of Invulnerability](Globe%20of%20Invulnerability.md)
+- [[Guards and Wards](Guards%20and%20Wards.md)
+- [[Instant Summons](Instant%20Summons.md)
+- [[Irresistible Dance](Irresistible%20Dance.md)
+- [[Magic Jar](Magic%20Jar.md)
+- [[Mass Suggestion](Mass%20Suggestion.md)
+- [[Move Earth](Move%20Earth.md)
+- [[Programmed Illusion](Programmed%20Illusion.md)
+- [[Sunbeam.md]]
+- [[True Seeing](True%20Seeing.md)
+- [[Wall of Ice](Wall%20of%20Ice.md)
 
 #### 7th Level
 
-- [[Arcane Sword]]
-- [[Delayed Blast Fireball]]
-- [[Etherealness]]
-- [[Finger of Death]]
-- [[Forcecage]]
-- [[Magnificent Mansion]]
-- [[Mirage Arcane]]
-- [[Plane Shift]]
-- [[Prismatic Spray]]
-- [[Project Image]]
-- [[Reverse Gravity]]
-- [[Sequester]]
-- [[Simulacrum]]
-- [[Symbol]]
-- [[Teleport]]
+- [[Arcane Sword](Arcane%20Sword.md)
+- [[Delayed Blast Fireball](Delayed%20Blast%20Fireball.md)
+- [[Etherealness.md]]
+- [[Finger of Death](Finger%20of%20Death.md)
+- [[Forcecage.md]]
+- [[Magnificent Mansion](Magnificent%20Mansion.md)
+- [[Mirage Arcane](Mirage%20Arcane.md)
+- [[Plane Shift](Plane%20Shift.md)
+- [[Prismatic Spray](Prismatic%20Spray.md)
+- [[Project Image](Project%20Image.md)
+- [[Reverse Gravity](Reverse%20Gravity.md)
+- [[Sequester.md]]
+- [[Simulacrum.md]]
+- [[Symbol.md]]
+- [[Teleport.md]]
 
 #### 8th Level
 
-- [[Antimagic Field]]
-- [[Antipathy-Sympathy]]
-- [[Clone]]
-- [[Control Weather]]
-- [[Demiplane]]
-- [[Dominate Monster]]
-- [[Feeblemind]]
-- [[Incendiary Cloud]]
-- [[Maze]]
-- [[Mind Blank]]
-- [[Power Word Stun]]
-- [[Sunburst]]
+- [[Antimagic Field](Antimagic%20Field.md)
+- [[Antipathy-Sympathy.md]]
+- [[Clone.md]]
+- [[Control Weather](Control%20Weather.md)
+- [[Demiplane.md]]
+- [[Dominate Monster](Dominate%20Monster.md)
+- [[Feeblemind.md]]
+- [[Incendiary Cloud](Incendiary%20Cloud.md)
+- [[Maze.md]]
+- [[Mind Blank](Mind%20Blank.md)
+- [[Power Word Stun](Power%20Word%20Stun.md)
+- [[Sunburst.md]]
 
 #### 9th Level
 
-- [[Astral Projection]]
-- [[Foresight]]
-- [[Gate]]
-- [[Imprisonment]]
-- [[Meteor Swarm]]
-- [[Power Word Kill]]
-- [[Prismatic Wall]]
-- [[Shapechange]]
-- [[Time Stop]]
-- [[True Polymorph]]
-- [[Weird]]
-- [[Wish]]
+- [[Astral Projection](Astral%20Projection.md)
+- [[Foresight.md]]
+- [[Gate.md]]
+- [[Imprisonment.md]]
+- [[Meteor Swarm](Meteor%20Swarm.md)
+- [[Power Word Kill](Power%20Word%20Kill.md)
+- [[Prismatic Wall](Prismatic%20Wall.md)
+- [[Shapechange.md]]
+- [[Time Stop](Time%20Stop.md)
+- [[True Polymorph](True%20Polymorph.md)
+- [[Weird.md]]
+- [[Wish.md]]

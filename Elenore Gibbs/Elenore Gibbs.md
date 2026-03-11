@@ -1,14 +1,14 @@
 > *"Unfortunately, Adventuring doesn't have a great retirement plan"*
 
-![[ElenoreImg1.png]]
+![ElenoreImg1](Images/ElenoreImg1.png)
 
-|                |              |
-| -------------- | ------------ |
-| **Class**      | [[Ranger]]   |
-| **Level**      | 3            |
-| **Race**       | [[Human]]    |
-| **Alignment**  | Neutral Good |
-| **Background** | Folk Hero    |
+|                |                                           |
+| -------------- | ----------------------------------------- |
+| **Class**      | [Ranger](../_Reference/Classes/Ranger.md) |
+| **Level**      | 3                                         |
+| **Race**       | [Human](../_Reference/Races/Human.md)     |
+| **Alignment**  | Neutral Good                              |
+| **Background** | Folk Hero                                 |
 
 |            |        |
 | ---------- | ------ |
@@ -43,7 +43,7 @@
 | Handaxe (thrown)   | 1d6 Slashing    | +4 (Prof + Str)    | +2 (Str)           | Ranged (20/60)              |
 |                    |                 |                    |                    |                             |
 *Note: Savage Attacker allows you to reroll 1 melee damage dice per turn*
-*Note: Elenore has Mastery in Handaxes, allowing her to use their mastery ability, [[Vex]]*
+*Note: Elenore has Mastery in Handaxes, allowing her to use their mastery ability, [Vex](Abilities/Vex.md)*
 
 ## Spellcasting
 
@@ -56,8 +56,8 @@
 | 3                  | 3       |         |         |         |         |
 | **Current Slots:** | 3       |         |         |         |         |
 **Spells**
-- *Special* - [[Hunter's Mark]] (2x / long rest)
-- *Level 1 - [[Cure Wounds]], [[Speak with Animals]], [[Goodberry]] (maybe)*
+- *Special* - [Hunter's Mark](../_Reference/Spells/Hunter's%20Mark.md) (2x / long rest)
+- *Level 1 - [Cure Wounds](../_Reference/Spells/Cure%20Wounds.md), [Speak with Animals](../_Reference/Spells/Speak%20with%20Animals.md), [Goodberry](../_Reference/Spells/Goodberry.md) (maybe)*
 
 ---
 
@@ -102,7 +102,7 @@
 
 *Ranger Class*
 **Fighting Style: Two-Weapon Fighting** - When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack
-**Favored Enemy** - Cast [[Hunter's Mark]] up to 2x per long rest without expending a spell slot
+**Favored Enemy** - Cast [Hunter's Mark](../_Reference/Spells/Hunter's%20Mark.md) up to 2x per long rest without expending a spell slot
 
 ---
 ## Proficiencies
@@ -111,7 +111,7 @@
 *Folk Hero Background*
 - **Skill: Animal Handling**
 - **Skill: Survival**
-- **Tools: [[Calligrapher's Supplies]]**
+- **Tools: [Calligrapher's Supplies](../_Reference/Equipment/Calligrapher's%20Supplies.md)**
 - **Vehicles (Land)**
 *Ranger Class*
 - **Armor: Light**
@@ -149,14 +149,14 @@
 - 2 Handaxes (1d6 Slashing, Light, Thrown 20/60)
 - 2 Reserve Handaxes |Note: Paid for using 10 starting gp
 *Tools*
-- [[Calligrapher's Supplies]]
+- [Calligrapher's Supplies](../_Reference/Equipment/Calligrapher's%20Supplies.md)
 - Shovel
 - An Iron Pot
 - A set of common clothes
 
 ---
 ## Personality
-Elenore Gibbs is a simple woman, who has lived a long and satisfying life assisting commoners throughout the lands as something of a folk hero, and has at last reached the age where she is looking for a home to retire at with her loyal St. Bernard [[Hank]].
+Elenore Gibbs is a simple woman, who has lived a long and satisfying life assisting commoners throughout the lands as something of a folk hero, and has at last reached the age where she is looking for a home to retire at with her loyal St. Bernard [Hank](Hank.md).
 
 She is wise, kind, and open-minded. She believes that all folk are created equal, and that rascals who pretend otherwise could use some good old-fashioned discipline.
 
