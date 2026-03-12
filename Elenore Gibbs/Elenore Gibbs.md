@@ -171,7 +171,7 @@ While she has her dog Hank, she has found and subsequently lost several chosen f
 
 ---
 ## Backstory
-Elenore was born to Martin and Gertrude Gibbs, a pair of retired hunters from the city of Wander. When they had Elenore more than 60 years ago, they decided to stop following the God-King, and settle down in a farm just downriver from the city of Opus.
+Elenore was born to Martin and Gertrude Gibbs, a pair of retired hunters from a wandering city. When they had Elenore more than 60 years ago, they decided to stop following the God-King, and settle down in a farm just downriver from the city of Opus.
 
 She grew up doing work on the farm: chopping wood, planting seeds, and herding cattle with her pet dog Hank. Elenore lived a simple childhood, backed by strong family values. It were these family values that led her to accept her first quest at the age of 16, to help pay off debts owed by her parents to some loan shark from Gone.
 
