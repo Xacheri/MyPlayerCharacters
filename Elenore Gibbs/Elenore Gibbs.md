@@ -57,7 +57,7 @@
 | **Current Slots:** | 3       |         |         |         |         |
 **Spells**
 - *Special* - [Hunter's Mark](../_Reference/Spells/Hunter's%20Mark.md) (2x / long rest)
-- *Level 1 - [Cure Wounds](../_Reference/Spells/Cure%20Wounds.md), [Speak with Animals](../_Reference/Spells/Speak%20with%20Animals.md), [Goodberry](../_Reference/Spells/Goodberry.md) (maybe)*
+- *Level 1 - [Cure Wounds](../_Reference/Spells/Cure%20Wounds.md), [Speak with Animals](../_Reference/Spells/Speak%20with%20Animals.md), [Ensnaring Strike](../_Reference/Spells/Ensnaring%20Strike.md)
 
 ---
 
